@@ -1,0 +1,21 @@
+.container__menu-bar{
+  margin-top: 15px;
+}
+
+.container__menu-bar > ul {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  justify-content: center;
+}
+
+.container__menu-bar > ul > li {
+  margin-right: 20px;
+  list-style: none;
+  text-decoration: none;
+}
+
+.container__menu-bar > ul > li > a {
+  list-style: none;
+  text-decoration: none;
+}
