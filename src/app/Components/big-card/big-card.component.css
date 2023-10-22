@@ -10,6 +10,11 @@
   justify-content: flex-start;
 }
 
+.big-card__title >h1 > a{
+  list-style: none;
+  text-decoration: none;
+}
+
 .container__big-card > h1 {
   font-size: 1rem;
   margin: 10px 0px;
